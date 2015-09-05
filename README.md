@@ -1,3 +1,3 @@
-Rice Meets Soy Sauce
+## Rice Meets Soy Sauce
 
-An online dating app that your pet loves.
+### An online dating app that your pet loves.
